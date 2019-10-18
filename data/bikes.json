@@ -1,7 +1,0 @@
-[
-    {"Image":"Assets/Images/Honda.jpg", "Name":"Honda", "Summary":"USA", "Price":"$10000"},        
-    {"Image":"Assets/Images/Ducati.jpg", "Name":"Ducati", "Summary":"German", "Price":"$100000"},
-    {"Image":"Assets/Images/Harley.jpg", "Name":"Harley", "Summary":"Japan", "Price":"$1000"},
-    {"Image":"Assets/Images/Kawasaki.jpg", "Name":"Kawasaki", "Summary":"Moon", "Price":"$10"},
-    {"Image":"Assets/Images/Yamaha.jpg", "Name":"Yamaha", "Summary":"Italian", "Price":"$100000000000000000"}
-]
